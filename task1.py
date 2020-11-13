@@ -1,5 +1,5 @@
 #! python3
-noun = ("A dog")
+noun = ("A dog ")
 verb = ("barked")
 print(noun + verb)
 
