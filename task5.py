@@ -1,6 +1,6 @@
 #!python3
 start = "here"
-word = " kitty "
+word = "kitty"
 x = 3
 
 print(start +(word*3))
